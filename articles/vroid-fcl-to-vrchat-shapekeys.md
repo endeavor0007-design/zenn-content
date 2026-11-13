@@ -1,5 +1,5 @@
 ---
-title: "VRoid の Fcl_ のシェイプキー名を VRChat の vrc.～ 名に変える手順（Blender 4.5 LTS／5.1／5.2）"
+title: "VRoid の Fcl_ のシェイプキー名を VRChat の vrc.～ 名に変える（Blender 4.5 LTS／5.1／5.2）"
 emoji: "🎭"
 type: "tech"
 topics: ["blender", "python", "vrchat", "3dcg"]
